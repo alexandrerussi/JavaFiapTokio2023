@@ -3,7 +3,7 @@ package logica.aulas;
 public class PrimeiroPrograma {
 
 	public static void main(String[] args) {
-		System.out.println("Olá, mundo!");
+		System.out.println("Olá, mundasdasdo!");
 		
 		int idade;
 		idade = 23;
