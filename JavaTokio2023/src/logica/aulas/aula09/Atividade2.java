@@ -12,11 +12,15 @@ public class Atividade2 {
 		System.out.println("colunas: " + qtdColunas);
 		
 		
-		for (int i = 0; i < qtdLinhas; i ++) {
-			for (int j = 0; j < qtdColunas; j++) {
-				matriz[i][j] = 5;
-			}
-		}
+//		for (int i = 0; i < qtdLinhas; i ++) {
+//			for (int j = 0; j < qtdColunas; j++) {
+//				matriz[i][j] = 5;
+//				
+//				if (i == 1 && j == 1) {
+//					matriz[i][j] = 0;
+//				}
+//			}
+//		}
 		
 		for (int i = 0; i < qtdLinhas; i ++) {
 			for (int j = 0; j < qtdColunas; j++) {
